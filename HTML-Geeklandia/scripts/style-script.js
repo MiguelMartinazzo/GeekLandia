@@ -1,0 +1,1 @@
+const btnMobile=document.getElementById("icone-menu");function toggleMenu(){const a=document.getElementById("navegacao");a.classList.toggle("active")}btnMobile.addEventListener("click",toggleMenu);

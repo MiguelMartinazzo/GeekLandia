@@ -1,0 +1,1 @@
+function validateForm(){return""==document.forms.loginForm.email.value?(alert("Por favor, insira um nome de usu\xE1rio."),!1):""!=document.forms.loginForm.senha.value||(alert("Por favor, insira uma senha."),!1)}document.forms.loginForm.addEventListener("submit",validateForm);

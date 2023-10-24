@@ -1,0 +1,23 @@
+#mensagem-confirmacao {
+    width: 100%;
+
+    margin-top: 300px;
+    margin-bottom: 60px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#mensagem-confirmacao h3 {
+    font-size: 30px;
+
+    margin-bottom: 60px;
+}
+
+#mensagem-confirmacao p {
+    margin-bottom: 15px;
+
+    font-size: 20px;
+}
